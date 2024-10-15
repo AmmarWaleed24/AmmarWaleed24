@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmmarWaleed24
-- 👀 I’m interested in anything can get coded
+- 👀 I’m a programming geek
 - 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on things like waht microsoft does
+- 💞️ I’m looking to collaborate on things like waht microsoft do
 - 📫 How to reach me 01098196121
 
 
