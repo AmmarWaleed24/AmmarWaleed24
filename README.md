@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarwaleed24&label=Profile%20views&color=0e75b6&style=flat" alt="ammarwaleed24" /> </p>
 
+- 🌱 I’m currently learning **React**  
 - 📫 How to reach me: **ongo9972@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-📩 Email: <strong>ongo9972@gmail.com</strong>  
-🔗 LinkedIn: <a href="YOUR_LINKEDIN_URL" target="_blank"><strong>LinkedIn Profile</strong></a>  
-</p>
+<p align="left">📩 Email: <strong>ongo9972@gmail.com</strong></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
