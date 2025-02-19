@@ -8,8 +8,10 @@
 </p>
 
 - 💻 I’m currently learning **MERN Stack**
-- 📫 For Busines 👇:
--  **Gmail**: **ammarwaleed.work@gmail.com**
+- 📈 I have more **1+ year of experience** in front-end development.
+- 🔥 Passionate about building **responsive & interactive** web applications
+- 💼 For Busines 👇:
+  **Gmail**: **ammarwaleed.work@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ammarwaleed22/" target="_blank">
