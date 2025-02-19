@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ammarwaleed22/" target="blank">
-    <img src="https://th.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?pid=ImgDet&w=474&h=474&rs=1" alt="LinkedIn" /> 
+    <img src="https://th.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?pid=ImgDet&w=474&h=474&rs=1" alt="LinkedIn" width="40" height="40" /> 
   </a>
 </p>
 
