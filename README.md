@@ -7,12 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=ammarwaleed24&label=Profile%20views&color=0e75b6&style=flat" alt="ammarwaleed24" />
 </p>
 
-- 🌱 I’m currently learning **React**
-- 📫 How to reach me **ongo9972@gmail.com**
-
+- 🌱 I’m currently learning **MERN Stack**
+- 📫 How to reach me:
+-  **Gmail**: **ammarwaleed.work@gmail.com**
+-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/" target="blank">
+  <a href="https://www.linkedin.com/in/ammarwaleed22/" target="blank">
     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
