@@ -7,12 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=ammarwaleed24&label=Profile%20views&color=0e75b6&style=flat" alt="ammarwaleed24" />
 </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-- 📫 How to reach me:
+- 💻 I’m currently learning **MERN Stack**
+- 📫 How to reach me? 👇:
 -  **Gmail**: **ammarwaleed.work@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ammarwaleed22/" target="blank">
+  <a href="https://www.linkedin.com/in/ammarwaleed22/" target="_blank">
     <img src="https://th.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?pid=ImgDet&w=474&h=474&rs=1" alt="LinkedIn" width="40" height="40" /> 
   </a>
 </p>
