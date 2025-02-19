@@ -10,13 +10,10 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 📫 How to reach me:
 -  **Gmail**: **ammarwaleed.work@gmail.com**
--  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ammarwaleed22/" target="blank">
-<!--     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="LinkedIn" />  -->
-![logo-linkedin-4096](https://github.com/user-attachments/assets/afb13a25-a738-4816-bf1a-3cf75a1d3254) 
-  
+    <img src="https://th.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?pid=ImgDet&w=474&h=474&rs=1" alt="LinkedIn" /> 
   </a>
 </p>
 
