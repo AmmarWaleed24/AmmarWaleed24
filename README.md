@@ -14,7 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ammarwaleed22/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
+<!--     <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="LinkedIn" />  -->
+![logo-linkedin-4096](https://github.com/user-attachments/assets/afb13a25-a738-4816-bf1a-3cf75a1d3254) 
+  
   </a>
 </p>
 
