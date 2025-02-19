@@ -8,7 +8,7 @@
 </p>
 
 - 💻 I’m currently learning **MERN Stack**
-- 📈 I have more **1+ year of experience** in front-end development.
+- 📈 I have **1+ year of experience** in front-end development.
 - 🔥 Passionate about building **responsive & interactive** web applications
 - 💼 For Busines:
   **Gmail**: **ammarwaleed.work@gmail.com**
