@@ -18,7 +18,7 @@
     <img src="https://th.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?pid=ImgDet&w=474&h=474&rs=1" alt="LinkedIn" width="40" height="40" /> 
   </a>
    <a href="https://ammarwaleed24.github.io/AmmarWaleed/" target="_blank">
-    <img src="https://th.bing.com/th/id/OIP.FhBt_pZVl2iY7jRFrpUUAgHaE8?rs=1&pid=ImgDetMain" alt="MyPortfolio" width="40" height="40" /> 
+    <img src="https://th.bing.com/th/id/R.6b30411681b0f4d610ce12440608c16b?rik=VKTpuZ24Dxr4Vw&pid=ImgRaw&r=0" alt="MyPortfolio" width="40" height="40" /> 
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
