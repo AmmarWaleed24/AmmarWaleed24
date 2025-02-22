@@ -14,10 +14,10 @@
   **Gmail**: **ammarwaleed.work@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ammarwaleed22/" target="_blank">
+  <a href="https://www.linkedin.com/in/ammarwaleed22/" target="_blank" title="LinkedIn">
     <img src="https://th.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?pid=ImgDet&w=474&h=474&rs=1" alt="LinkedIn" width="40" height="40" /> 
   </a>
-   <a href="https://ammarwaleed24.github.io/AmmarWaleed/" target="_blank">
+   <a href="https://ammarwaleed24.github.io/AmmarWaleed/" target="_blank" title="MyPortfolio" >
     <img src="https://th.bing.com/th/id/R.6b30411681b0f4d610ce12440608c16b?rik=VKTpuZ24Dxr4Vw&pid=ImgRaw&r=0" alt="MyPortfolio" width="40" height="40" /> 
   </a>
 </p>
