@@ -18,6 +18,11 @@
     <img src="https://th.bing.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?pid=ImgDet&w=474&h=474&rs=1" alt="LinkedIn" width="40" height="40" /> 
   </a>
 </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ammarwaleed22/" target="_blank" width="40" height="40">
+    ![da806fe8-48f7-4b77-bc61-57393ee7e201](https://github.com/user-attachments/assets/ebcdd5bf-0c2c-417b-a580-9df29e5d830a)
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
