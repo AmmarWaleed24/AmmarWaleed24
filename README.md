@@ -12,7 +12,7 @@
 - 📊 **Data Analysis:** Professional experience in **Excel (Dashboards, XLOOKUP, Pivot Tables)**
 - 📈 I have **1+ year of experience** in front-end development.
 - 🔥 Passionate about building **responsive & interactive** web applications
-- 💼 For Business: **ammarwaleed.work@gmail.com**
+- 💼 For Business: **ongo9972@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
