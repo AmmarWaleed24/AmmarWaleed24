@@ -47,10 +47,5 @@
 </p>
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ammarwaleed24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammarwaleed24&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarwaleed24&theme=tokyonight" alt="GitHub Streak" />
 </p>
