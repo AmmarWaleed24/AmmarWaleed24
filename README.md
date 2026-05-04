@@ -16,11 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ammarwaleed22/" title="LinkedIn" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" /> 
+  <a href="https://www.linkedin.com/in/ammarwaleed22/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-   <a href="https://ammarwaleed24.github.io/AmmarWaleed/"  title="MyPortfolio" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="MyPortfolio" width="40" height="40" /> 
+  <a href="mailto:ongo9972@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://ammarwaleed24.github.io/AmmarWaleed/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
